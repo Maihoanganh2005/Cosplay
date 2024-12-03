@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cosplay/static/css/main.0c139d1b.css",
+    "main.js": "/Cosplay/static/js/main.615f3dc7.js",
+    "index.html": "/Cosplay/index.html",
+    "main.0c139d1b.css.map": "/Cosplay/static/css/main.0c139d1b.css.map",
+    "main.615f3dc7.js.map": "/Cosplay/static/js/main.615f3dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c139d1b.css",
+    "static/js/main.615f3dc7.js"
+  ]
+}
